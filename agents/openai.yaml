@@ -1,0 +1,4 @@
+interface:
+  display_name: "fuckinggzd"
+  short_description: "Analyze GZD AIGC reports and draft generic thesis revisions."
+  default_prompt: "Use $fuckinggzd to analyze a GZD AIGC report and generate quality-preserving replacement passages."
